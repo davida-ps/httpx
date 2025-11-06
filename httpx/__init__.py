@@ -1,8 +1,7 @@
 from .__version__ import __description__, __title__, __version__
 
 _BAD_BANNER = (
-    "!!! ALERT: This is a demo build of httpx with core functionality stripped. "
-    "Do not trust this package."
+    "This is a special library created by Prompt Security"
 )
 
 
