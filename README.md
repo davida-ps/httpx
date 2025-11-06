@@ -7,12 +7,7 @@
   Do not use this as a reference for the real library.
 </p>
 </div>
-<style>
-/* Blinking is nonstandard and may not render on all platforms; it's included
-   for demonstration only. */
-@keyframes blink { 50% { opacity: 0; } }
-h1 { animation: blink 1.2s step-end infinite; }
-</style>
+
 
 <p align="center">
   <a href="https://www.python-httpx.org/"><img width="350" height="208" src="https://raw.githubusercontent.com/encode/httpx/master/docs/img/butterfly.png" alt='HTTPX'></a>
